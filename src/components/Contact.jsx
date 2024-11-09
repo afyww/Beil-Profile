@@ -14,7 +14,7 @@ function Contact() {
     <section id="hubungi" className="p-6 md:p-20 my-6 md:my-20">
       <div className='grid grid-cols-1 md:grid-cols-2 gap-4 space-y-4'>
         <div className='space-y-3 md:space-y-6 md:my-auto'>
-          <h1 className="text-3xl md:text-6xl font-bold text-black text-center">"Solusi Bisnis Anda!"</h1>
+          <h1 className="text-3xl md:text-6xl font-bold text-black text-center md:text-left">"Solusi Bisnis Anda!"</h1>
           <h1 className="text-xs md:text-xl text-black font-light">
             Dengan Beil POS, Anda bisa mengelola penjualan, stok, dan laporan keuangan secara lebih efisien dan terintegrasi. Segera bergabung dan nikmati kemudahan dalam setiap transaksi!
           </h1>

@@ -15,21 +15,21 @@ const Footer = () => {
                 </div>
                 <div className='space-y-4 mx-auto'>
                     <div>
-                        <h1 className='font-semibold text-black text-center text-sm'>Our Address</h1>
+                        <h1 className='font-semibold text-black text-center text-sm md:text-xl'>Our Address</h1>
                     </div>
                     <div className='text-center'>
-                        <h1 className='block text-black text-xs md:text-sm'>Jl. Satrio Wibowo III No.73, Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50196</h1>
+                        <h1 className='block text-black text-sm md:text-xl'>Jl. Satrio Wibowo III No.73, Tlogosari Kulon, Kec. Pedurungan, Kota Semarang, Jawa Tengah 50196</h1>
                     </div>
                 </div>
                 <div className='space-y-4 mx-auto col-span-2 md:col-span-1'>
                     <div>
-                        <h1 className='font-semibold text-black text-center text-sm'>Quick Link</h1>
+                        <h1 className='font-semibold text-black text-center text-sm md:text-xl'>Quick Link</h1>
                     </div>
                     <div className='space-y-2 text-left'>
-                        <a className='block text-black text-sm' href="#tentang">Tentang</a>
-                        <a className='block text-black text-sm' href="#fitur">Fitur</a>
-                        <a className='block text-black text-sm' href="#harga">Harga</a>
-                        <a className='block text-black text-sm' href="#hubungi">Hubungi Kami</a>
+                        <a className='block text-black text-sm md:text-xl' href="#tentang">Tentang</a>
+                        <a className='block text-black text-sm md:text-xl' href="#fitur">Fitur</a>
+                        <a className='block text-black text-sm md:text-xl' href="#harga">Harga</a>
+                        <a className='block text-black text-sm md:text-xl' href="#hubungi">Hubungi Kami</a>
                     </div>
                 </div>
             </div>
