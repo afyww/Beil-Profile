@@ -30,7 +30,7 @@ function Price() {
               <div className='bg-white p-3 md:p-6 rounded-md shadow-md text-center space-y-2 md:space-y-4'>
                 <h1 className='text-xl md:text-2xl font-bold text-gray-900'>Paket Ekonomis</h1>
                 <h1 className='text-3xl md:text-5xl text-black font-bold'>Rp.750.000</h1>
-                <h1 className='text-xs md:text-lg text-black font-semibold'> Untuk 6 bulan</h1>
+                <h1 className='text-xs md:text-lg text-black font-semibold'>/Untuk 6 bulan</h1>
                 <p className='text-gray-700 text-xs md:text-lg'>
                   Paket ideal untuk bisnis yang sedang berkembang. Lebih banyak fitur dengan harga lebih hemat.
                 </p>
@@ -38,7 +38,7 @@ function Price() {
               <div className='bg-white p-3 md:p-6 rounded-md shadow-md text-center space-y-2 md:space-y-4'>
                 <h1 className='text-xl md:text-2xl font-bold text-gray-900'>Paket Eksekutif</h1>
                 <h1 className='text-3xl md:text-5xl text-black font-bold'>Rp.1.100.000</h1>
-                <h1 className='text-xs md:text-lg text-black font-semibold'> Untuk 12 bulan</h1>
+                <h1 className='text-xs md:text-lg text-black font-semibold'>/Untuk 12 bulan</h1>
                 <p className='text-gray-700 text-xs md:text-lg'>
                   Paket premium untuk bisnis besar yang membutuhkan fitur lengkap dan dukungan prioritas. Hemat lebih banyak dengan berlangganan jangka panjang.
                 </p>
